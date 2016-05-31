@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Gimletech</title>
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="http://www.gimletech.com/blog/"/>
+  <updated>2016-05-31T09:29:09.000Z</updated>
+  <id>http://www.gimletech.com/blog/</id>
+  
+  <author>
+    <name>Gimletech</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Value v1.3 Released</title>
+    <link href="http://www.gimletech.com/blog/2016/05/27/2016-05-27-value-v1-3-released/"/>
+    <id>http://www.gimletech.com/blog/2016/05/27/2016-05-27-value-v1-3-released/</id>
+    <published>2016-05-27T01:15:30.000Z</published>
+    <updated>2016-05-31T09:29:09.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Value-v1-3-Released&quot;&gt;&lt;a href=&quot;#Value-v1-3-Released&quot; class=&quot;headerlink&quot; title=&quot;Value v1.3 Released&quot;&gt;&lt;/a&gt;Value v1.3 Released&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;We are happy to announce that another feature release &lt;a href=&quot;https://itunes.apple.com/us/app/value-turn-investors-idea/id1020357535?ls=1&amp;amp;mt=8&quot; title=&quot;Value v1.3 - App Store&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Value v1.3&lt;/strong&gt;&lt;/a&gt; is available.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-0/p160x160/13333012_987849421333442_2545386095872532895_n.jpg?oh=d91bdf71f62f7eedecfb08773091b9ba&amp;amp;oe=57E13901&quot; alt=&quot;alt REITs&quot; title=&quot;Value v1.3 new feature&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Analysis Page Updates&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Brand new look and feel. We added four cards to the page: BigMacPPP, Portfolio Diversification, Home Price Index and Rule of 72. &lt;/p&gt;
+&lt;p&gt;The Big Mac index, also known as Big Mac PPP, is a survey done by The Economist magazine that is used to measure the purchasing power parity (PPP) between nations, using the price of a Big Mac as the benchmark. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13256287_981470451971339_563655784568180187_n.png?oh=31537d80467a26e2eede4057f085f66d&amp;oe=57CC2912&quot; alt=&quot;Value v1.3 Big Mac PPP&quot; style=&quot;width: 320px;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We use IPC (Intra-Portfolio Correlation) to quantify portfolio diversification. The IPC can be from -1 to +1. The closer it is to -1 the more diversified your portfolio is. The closer IPC is to +1 the less diversified your portfolio is. We use the adjusted value as the score of a portfolio. &lt;/p&gt;
+&lt;p&gt;We use S&amp;amp;P/Case-Shiller 20-City Composite Home Price Index. It seeks to measures the value of residential real estate in 20 major U.S. metropolitan areas, e.g. Atlanta, Boston, Chicago, Los Angeles, New York, San Diego, San Francisco, Seattle, Tampa and Washington, D.C. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13240709_981471088637942_19704120370348432_n.png?oh=2c6b7bb852cb56ecbc43df3aea0d4e3d&amp;oe=57D2E2F2&quot; alt=&quot;Value v1.3 Home Price Index&quot; style=&quot;width: 320px;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The Rule of 72 is the simplest way to calculate how long you can double your portfolio, given an annualized return rate. For example, given a 36% return rate, you can expect your portfolio to double in 2 years.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Please take Value v1.3 for a spin and &lt;a href=&quot;mailto:feedback@gimletech.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;send us feedback.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cheers!&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Value-v1-3-Released&quot;&gt;&lt;a href=&quot;#Value-v1-3-Released&quot; class=&quot;headerlink&quot; title=&quot;Value v1.3 Released&quot;&gt;&lt;/a&gt;Value v1.3 Released&lt;/h1&gt;&lt;hr&gt;
+
+    
+    </summary>
+    
+      <category term="Releases" scheme="http://www.gimletech.com/blog/categories/Releases/"/>
+    
+    
+      <category term="Releases" scheme="http://www.gimletech.com/blog/tags/Releases/"/>
+    
+      <category term="Value" scheme="http://www.gimletech.com/blog/tags/Value/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Value v1.2 Released</title>
+    <link href="http://www.gimletech.com/blog/2016/05/07/2016-05-07-value-v1-2-released/"/>
+    <id>http://www.gimletech.com/blog/2016/05/07/2016-05-07-value-v1-2-released/</id>
+    <published>2016-05-07T01:15:26.000Z</published>
+    <updated>2016-05-31T07:16:13.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Value-v1-2-Released&quot;&gt;&lt;a href=&quot;#Value-v1-2-Released&quot; class=&quot;headerlink&quot; title=&quot;Value v1.2 Released&quot;&gt;&lt;/a&gt;Value v1.2 Released&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;We are happy to announce that &lt;a href=&quot;https://itunes.apple.com/us/app/value-turn-investors-idea/id1020357535?ls=1&amp;amp;mt=8&quot; title=&quot;Value v1.2 - App Store&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Value v1.2&lt;/strong&gt;&lt;/a&gt; has been released today! This release is a feature release.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;New Analysis Page&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Brand new look and feel. We added two cards to the page: VIX(CBOE Volatility Index) and BDI(Baltic Dry Index). The VIX is a measure of the implied volatility of S&amp;amp;P 500 index options. It shows the market’s expectation of 30-day volatility. The Baltic Dry Index (BDI) is a measure of the price of shipping major raw materials such as metals, grains, and fossil fuels by sea.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13118977_972164069568644_3824447900134112424_n.png?oh=927b9405f9777d94d5a58556400395e9&amp;oe=57D2F828&quot; alt=&quot;Value v1.2 VIX Index&quot; style=&quot;width: 320px;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13164277_972164076235310_2449426804089284355_n.png?oh=9bff89580132808fc6f40386f08c34a6&amp;oe=57C6F022&quot; alt=&quot;Value v1.2 Baltic Dry Index&quot; style=&quot;width: 320px;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Market Pulse Updates: Canada Market&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Since Value v1.1, we renamed the Clustering page to Pulse, which gives our users a more comprehensive view of a realistic financial market. The goal of the new Pulse page was to help us to understand different market conditions. And in v1.2, we added Canada Market to the list.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Leaner Page&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Curated list of books, podcasts, moocs, and more. We’re learning to learn, learn to become a better investor. Find helpful informations to grow your investment knowledge, and most importantly: transfer knowledge to wisdom.&lt;/p&gt;
+&lt;p&gt;From the Learner, you can find the best investment and trading books. Keep up with latest trading ideas with collections of podcasts. If you fancy an online course, we also have some recommendations for you.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13166010_971625432955841_5806966303750300151_n.jpg?oh=53b147d48e8b33434f520787105112d3&amp;amp;oe=57DE9C0F&quot; alt=&quot;alt v1.2&quot; title=&quot;Value v1.2 new features&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;More knowledge more profit, we’re not just saying!&lt;/p&gt;
+&lt;p&gt;Please take Value v1.2 for a spin and &lt;a href=&quot;mailto:feedback@gimletech.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;send us feedback.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cheers!&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Value-v1-2-Released&quot;&gt;&lt;a href=&quot;#Value-v1-2-Released&quot; class=&quot;headerlink&quot; title=&quot;Value v1.2 Released&quot;&gt;&lt;/a&gt;Value v1.2 Released&lt;/h1&gt;&lt;hr&gt;
+
+    
+    </summary>
+    
+      <category term="Releases" scheme="http://www.gimletech.com/blog/categories/Releases/"/>
+    
+    
+      <category term="Releases" scheme="http://www.gimletech.com/blog/tags/Releases/"/>
+    
+      <category term="Value" scheme="http://www.gimletech.com/blog/tags/Value/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Value v1.1 Released</title>
+    <link href="http://www.gimletech.com/blog/2016/03/24/2016-03-24-value-v1-1-released/"/>
+    <id>http://www.gimletech.com/blog/2016/03/24/2016-03-24-value-v1-1-released/</id>
+    <published>2016-03-24T02:45:26.000Z</published>
+    <updated>2016-03-24T10:43:07.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Value-v1-1-Released&quot;&gt;&lt;a href=&quot;#Value-v1-1-Released&quot; class=&quot;headerlink&quot; title=&quot;Value v1.1 Released&quot;&gt;&lt;/a&gt;Value v1.1 Released&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;We are happy to announce that &lt;a href=&quot;https://itunes.apple.com/us/app/value-turn-investors-idea/id1020357535?ls=1&amp;amp;mt=8&quot; title=&quot;Value v1.1 - App Store&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Value v1.1&lt;/strong&gt;&lt;/a&gt; has been released today! This release has taken a bit longer to finish than we originally expected, mostly because we put a new feature in place, allowing us to make Value v1.1 a feature (but not a bug fixing) release.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;New Feature: Market Pulse&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From Value v1.1, we will rename the Clustering page to Pulse, which gives our users a more comprehensive view of a realistic financial market. The goal of the new Pulse page is to help us to understand different market conditions (and our ultimate goal: Regime Switching):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-sit4-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1934657_941436205974764_891293227886009022_n.png?oh=c15601335a831550328093c64540075e&amp;amp;oe=57838C5B&quot; alt=&quot;alt REITs&quot; title=&quot;Value v1.1 new feature&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;General improvements&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It has been a month since we released Value v1.0 and thanks for our our users who sent us feedback. Here is the improvements we made in v1.1:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-sit4-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1391716_941436202641431_811725276456093564_n.png?oh=41e9eb1dcb2f5fde2a9838bfde9d26dc&amp;amp;oe=5782A33D&quot; alt=&quot;alt REITs&quot; title=&quot;Value v1.1 improvements&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Please take Value v1.1 for a spin and &lt;a href=&quot;mailto:feedback@gimletech.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;send us feedback.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cheers!&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Value-v1-1-Released&quot;&gt;&lt;a href=&quot;#Value-v1-1-Released&quot; class=&quot;headerlink&quot; title=&quot;Value v1.1 Released&quot;&gt;&lt;/a&gt;Value v1.1 Released&lt;/h1&gt;&lt;hr&gt;
+
+    
+    </summary>
+    
+      <category term="Releases" scheme="http://www.gimletech.com/blog/categories/Releases/"/>
+    
+    
+      <category term="Releases" scheme="http://www.gimletech.com/blog/tags/Releases/"/>
+    
+      <category term="Value" scheme="http://www.gimletech.com/blog/tags/Value/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alternative investments in stock market crash</title>
+    <link href="http://www.gimletech.com/blog/2016/03/03/2016-03-03-alternative-investments-in-stock-market-crash/"/>
+    <id>http://www.gimletech.com/blog/2016/03/03/2016-03-03-alternative-investments-in-stock-market-crash/</id>
+    <published>2016-03-03T12:20:06.000Z</published>
+    <updated>2016-03-03T12:27:16.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Alternative-investments-in-stock-market-crash&quot;&gt;&lt;a href=&quot;#Alternative-investments-in-stock-market-crash&quot; class=&quot;headerlink&quot; title=&quot;Alternative investments in stock market crash&quot;&gt;&lt;/a&gt;Alternative investments in stock market crash&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Bear Market Series - 2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Alternative investments were once an option for only institutions, endowments and &lt;a href=&quot;http://www.investopedia.com/terms/h/hnwi.asp&quot; title=&quot;Investopedia: High Net Worth Individual&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HNWIs&lt;/a&gt; (High Net Worth Individuals). But after experienced in 2008 &lt;a href=&quot;http://gimletech.com/blog/2016/02/23/2016-02-23-Bear-market-times/&quot; title=&quot;Bear market times&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;financial crisis&lt;/a&gt;, with the gradual opening of the alternative investments market and the investment philosophy changing of the globe, investors have become more concerned about finding safe-haven assets in bear markets. Of course, hedging is the key, but if these investments can also generate a decent income, why not try?&lt;/p&gt;
+&lt;p&gt;To help investors to understand the alternative investments, here are answers to the most frequently asked questions. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Common Alternative Investments Categories&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: &lt;strong&gt;6&lt;/strong&gt; categories: &lt;strong&gt;PE&lt;/strong&gt;, &lt;strong&gt;VC&lt;/strong&gt;, &lt;strong&gt;REITs&lt;/strong&gt;, &lt;strong&gt;Leveraged buyout&lt;/strong&gt;, &lt;strong&gt;FOF&lt;/strong&gt;, and &lt;strong&gt;Real assets&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;PE (Private Equity), VC (Venture Capital) and VL (Venture Lending) are concepts in the field of Private Capital Investment. Comparison across the globe, the number of &lt;a href=&quot;https://en.wikipedia.org/wiki/Privately_held_company&quot; title=&quot;Wikipedia: Privately held company&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;private companies&lt;/a&gt; is far greater than the number of companies listed on the stock exchanges. Unlike VC firms geared to business incubation stage investment, PE investments are more focused on companies that have succeed in their startup stage. Of course, due to the different stages this two investments involved in, they are different in both risk-reward, valuation, &lt;a href=&quot;http://www.investopedia.com/terms/i/investment_horizon.asp&quot; title=&quot;Investopedia: Investment horizon&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;investment Horizon&lt;/a&gt; and exits ways.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12803033_926535210798197_5683895615017232212_n.png?oh=0ee98229367d56f0316a6c14dc09c998&amp;amp;oe=5796B7EF&quot; alt=&quot;alt VC/PE&quot; title=&quot;Difference: VC &amp;amp; PE&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The emergence of Real Estate Investment Trusts (or REITs), on the one hand enhanced the efficiency of capital returns of large commercial real estate. On another hand also gave individual investors the opportunity to invest in commercial real estate, and to benefit from the dividend income(&lt;strong&gt;REITs are required to payout at least 90% of their taxable income in the form of dividends&lt;/strong&gt;). Investors can invest in different countries, different types of high-quality real estate, and by the allocation of resources to reduce the correlation of the overall investment in real estate projects, thereby reducing the risk. There are &lt;strong&gt;5&lt;/strong&gt; common types of REITs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/12743488_926535194131532_124921433085557615_n.png?oh=bd04ebc613bcb34831c510d6bf78d2b1&amp;amp;oe=5762300E&quot; alt=&quot;alt REITs&quot; title=&quot;REITs categories&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Real assets are those things that can be proven to be long-term preservation and valuable. The history of real assets investment is much earlier than the emergence of stock market. These real assets have capital elements, but beyond the control of capitals. For example: artwork, luxury goods (jewelry, watches), wine, as well as a variety of rare things. Real assets are usually tangible assets, excluding intangible assets category which boomed over the past ten years (e.g. domain name, bitcoin, litecoin)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2. Why Alternative Investments?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: more &lt;strong&gt;diversified&lt;/strong&gt; portfolio and &lt;strong&gt;low correlation&lt;/strong&gt; with stock markets, and &lt;strong&gt;valuation uncertainty&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Why should we in a bear or even bull market, choose to allocate our assets to alternative investments. The answer is: &lt;strong&gt;Risk-Reward Tradeoff&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;3. Alternative Investments Disadvantages?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: &lt;strong&gt;transparency&lt;/strong&gt;, &lt;strong&gt;liquidity&lt;/strong&gt; and &lt;strong&gt;valuation&lt;/strong&gt; concerns&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When we talk about alternative investments are becoming mainstream in investment markets during the depression, we also talk about their shortcomings.&lt;/p&gt;
+&lt;p&gt;The first disadvantage is the &lt;strong&gt;market supervision&lt;/strong&gt; and its strength. Comparing to the stock market, there is still room for improvements. The stock market has transparency requirements for the listed companies. Companies must disclose their information in a timely manner. In most of times, the &lt;strong&gt;quotes&lt;/strong&gt; reflect those information (Although this kind of feedback can not really reflect the &lt;a href=&quot;http://www.investopedia.com/terms/i/intrinsicvalue.asp&quot; title=&quot;Investopedia: Intrinsic Value&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;intrinsic value&lt;/strong&gt;&lt;/a&gt; of the company). But for alternative investments, we can hardly ask PE, VC or Real assets (managers) to give us the latest feedback of the investments. Of course, we might be able to put it down to the investments themselves. That is, before we enter the market, we may already know the rent will be charged monthly but not daily, and the liquidity of artworks or luxury goods is less than other assets. That’s the risk we should aware of.&lt;/p&gt;
+&lt;p&gt;Which followed by is the liquidity problems. The problem of liquidity will make &lt;strong&gt;withdrawal&lt;/strong&gt; extremely difficult for retail investors.&lt;/p&gt;
+&lt;p&gt;And the last one is the alternative Investments valuation concerns.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;4. Firms that specialised in alternative investments solutions and services&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: big name companies like: &lt;strong&gt;Blackstone&lt;/strong&gt;, &lt;strong&gt;The Yale Endowment&lt;/strong&gt;, &lt;strong&gt;Vanguard&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The alternative investments that belongs only to institutions, endowments and &lt;a href=&quot;http://www.investopedia.com/terms/h/hnwi.asp&quot; title=&quot;Investopedia: High Net Worth Individual&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HNWIs&lt;/a&gt; in the past are no longer the blue sea for investors. In order to earn huge profits, companies no matter large or small, are facing more competitions in this red sea. However, because of the more opened market and increased market competition, the companies that have the absolute capital advantages and strategic visions can still grab a lot of benefits from the winds and waves.&lt;/p&gt;
+&lt;p&gt;Blackstone is one of them. In &lt;a href=&quot;http://amzn.to/1L54Neu&quot; title=&quot;The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;King of Capital&lt;/a&gt;, this 1985 founded company has been very low key before its IPO(Except the $3M Birthday Party of its Founder and CEO &lt;a href=&quot;https://en.wikipedia.org/wiki/Stephen_A._Schwarzman&quot; title=&quot;Wikipedia: Stephen A. Schwarzman&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Steve Schwarzman&lt;/a&gt;). And in its global business, the most talked about is the LBOs, namely Leveraged buyouts. &lt;a href=&quot;http://www.blackstone.com/&quot; title=&quot;Blackstone Group&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Blackstone&lt;/a&gt; buys a company and finances it using a combination of debt and equity, with the debt sitting on the balance sheet of the acquired company. After the deal, Blackstone obtains the control of the acquired company, and helps the company to generate enough free cash flow (to pay down the debt over time) before selling the company. The average &lt;strong&gt;Debt/EBITDA ratio&lt;/strong&gt; used in these deals were around &lt;strong&gt;6.0-6.5x&lt;/strong&gt; trailing, and how much the PE firms want to buy with their own cash is case by case. Besides Blackstone, you may also be interested in &lt;a href=&quot;www.kkr.com/&quot; title=&quot;KKR &amp;amp; Co. L.P.&quot;&gt;KKR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-0/s480x480/12821502_926537577464627_5903522169391344353_n.png?oh=77c109cb2bed2ecaa9c96493eb4b8ecf&amp;amp;oe=574B21FB&quot; alt=&quot;alt KKR&quot; title=&quot;Source: Kohlberg Kravis Roberts &amp;amp; Co. L.P.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And in the field of &lt;a href=&quot;http://www.investopedia.com/terms/e/endowment-fund.asp&quot; title=&quot;Investopedia: Endowment Fund&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;endowment fund&lt;/a&gt;, &lt;a href=&quot;http://investments.yale.edu/&quot; title=&quot;The Yale Endowment&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Yale Endowment&lt;/a&gt; is unique. In a recent (Year 2015) investment return report, The Yale Endowment gains a revenue of &lt;strong&gt;11.5%&lt;/strong&gt; in the most turbulent year, after the Financial Crisis 2008. Once again proved its investment philosophy with the impressive performance (average yield of &lt;strong&gt;13.7%&lt;/strong&gt;) in the past 20 years. The fund currently has &lt;strong&gt;$25.6&lt;/strong&gt; billion in total assets. And in its latest (Year 2016) investment plan, a total of &lt;strong&gt;32.5%&lt;/strong&gt; will continue to be used for PE and VC investment, and &lt;strong&gt;16.0%&lt;/strong&gt; will be used for LBOs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xpl1/v/t1.0-9/12043055_926535190798199_6000797158935049423_n.png?oh=95d613c8fec02f5b080fc2934327fb65&amp;amp;oe=576695DE&quot; alt=&quot;alt Yale Plan&quot; title=&quot;The Yale Endowment Plan 2016&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Vanguard_Group&quot; title=&quot;Wikipedia: The Vanguard Group&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vanguard Group&lt;/a&gt; is an American investment management company based in Pennsylvania, that manages approximately &lt;strong&gt;$3.0&lt;/strong&gt; trillion (Year 2014) in assets. Founded by &lt;a href=&quot;https://en.wikipedia.org/wiki/John_C._Bogle&quot; title=&quot;Wikipedia: John C. Bogle&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;John C. Bogle&lt;/a&gt; in 1975, Vanguard now manages about &lt;strong&gt;160&lt;/strong&gt; U.S. funds and about &lt;strong&gt;120&lt;/strong&gt; additional funds in markets outside the United States, as of December 31, 2014. In alternative investments, Vanguard has, for example, Vanguard REIT ETF (&lt;a href=&quot;https://www.google.com/finance?cid=704702&quot; title=&quot;Vanguard REIT Index Fund&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;VNQ&lt;/a&gt;) and Vanguard Precious Metals and Mining Fund (&lt;a href=&quot;https://www.google.com/finance?q=VGPMX&quot; title=&quot;Vanguard Precious Metals And Mining Fund Investor Shares&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;VGPMX&lt;/a&gt;, which owns a mix of gold and commodity producers) for investors.&lt;/p&gt;
+&lt;p&gt;Besides aforementioned big name companies, we have more choices than ever. With the growth of &lt;a href=&quot;https://en.wikipedia.org/wiki/Financial_technology&quot; title=&quot;Wikipedia: Financial Technology&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FinTech&lt;/a&gt; companies in 2014 and 2015, the alternative investments market becomes much more easier for investors to invest aforementioned categories. Here is the short list:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Company Name&lt;/th&gt;
+&lt;th&gt;Specialisation&lt;/th&gt;
+&lt;th&gt;Website&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;OurCrowd&lt;/td&gt;
+&lt;td&gt;Startups&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://ourcrowd.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://ourcrowd.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CircleUp&lt;/td&gt;
+&lt;td&gt;Connecting Investors with Consumer Brands&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://circleup.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://circleup.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AngelList&lt;/td&gt;
+&lt;td&gt;Startups&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://angel.co&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://angel.co&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Equitise&lt;/td&gt;
+&lt;td&gt;Crowd funding&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://equitise.co.nz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://equitise.co.nz/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MyMicroInvest&lt;/td&gt;
+&lt;td&gt;European startups and &lt;a href=&quot;https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises&quot; title=&quot;Wikipedia: Small and medium-sized enterprises&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;SME’s&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.mymicroinvest.com/en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.mymicroinvest.com/en&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Property Partner&lt;/td&gt;
+&lt;td&gt;Property Crowdfunding&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://propertypartner.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://propertypartner.co/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Syndicate Room&lt;/td&gt;
+&lt;td&gt;Intelligent Equity Crowdfunding&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.syndicateroom.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.syndicateroom.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Global economies are more connected than ever, making it difficult to rely solely on one market to build a diversified and profitable portfolio. Therefore, we should pay more attention to alternative investments.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Your opinion? Leave us a comment or &lt;a href=&quot;mailto:feedback@gimletech.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;send us an email!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cheers!&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Alternative-investments-in-stock-market-crash&quot;&gt;&lt;a href=&quot;#Alternative-investments-in-stock-market-crash&quot; class=&quot;headerlink&quot; title=&quot;Al
+    
+    </summary>
+    
+      <category term="Bear Market Series" scheme="http://www.gimletech.com/blog/categories/Bear-Market-Series/"/>
+    
+    
+      <category term="Bear market" scheme="http://www.gimletech.com/blog/tags/Bear-market/"/>
+    
+      <category term="Insights" scheme="http://www.gimletech.com/blog/tags/Insights/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bear market times</title>
+    <link href="http://www.gimletech.com/blog/2016/02/23/2016-02-23-Bear-market-times/"/>
+    <id>http://www.gimletech.com/blog/2016/02/23/2016-02-23-Bear-market-times/</id>
+    <published>2016-02-23T12:29:00.000Z</published>
+    <updated>2016-02-28T02:49:34.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Bear-market-times&quot;&gt;&lt;a href=&quot;#Bear-market-times&quot; class=&quot;headerlink&quot; title=&quot;Bear market times&quot;&gt;&lt;/a&gt;Bear market times&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Bear Market Series - 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Do you know how many times the stock market disintegrated into a &lt;a href=&quot;http://www.investopedia.com/terms/b/bearmarket.asp&quot; title=&quot;Investopedia: Bear market&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;bear market&lt;/strong&gt;&lt;/a&gt;? Not surprisingly, many times!&lt;/p&gt;
+&lt;p&gt;To help investors to understand the bear markets, here are answers to the most frequently asked questions about this significant market condition:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. What is a bear market&lt;/strong&gt;?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: &lt;strong&gt;20%&lt;/strong&gt; and &lt;strong&gt;2 months&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The usual definition of a bear market is that when stocks in multiple broad market indexes, such as the &lt;a href=&quot;https://www.google.com/finance?cid=983582&quot; title=&quot;DJIA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Dow Jones Industrial Average (DJIA)&lt;/a&gt; or &lt;a href=&quot;https://www.google.com/finance?cid=626307&quot; title=&quot;S&amp;amp;P 500&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Standard &amp;amp; Poor’s 500 Index (S&amp;amp;P 500)&lt;/a&gt; decline more than (at least) &lt;strong&gt;20%&lt;/strong&gt; from their peaks, and last more than (at least) &lt;strong&gt;2 months&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2. How long do bear markets typically last?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: &lt;strong&gt;2 versions&lt;/strong&gt;, average &lt;strong&gt;15 months&lt;/strong&gt; or &lt;strong&gt;25 months&lt;/strong&gt;, comparing to a &lt;strong&gt;1/2&lt;/strong&gt; of the average &lt;a href=&quot;http://www.investopedia.com/terms/b/bullmarket.asp&quot; title=&quot;Investopedia: Bull market&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Bull markets&lt;/strong&gt;&lt;/a&gt; periods.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Due to the different definition of a bear market, and the index (&lt;a href=&quot;https://www.google.com/finance?cid=983582&quot; title=&quot;DJIA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DJIA&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/finance?cid=626307&quot; title=&quot;S&amp;amp;P 500&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;S&amp;amp;P 500&lt;/a&gt; or &lt;a href=&quot;https://www.msci.com/world&quot; title=&quot;WSCI World&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;WSCI World&lt;/a&gt;) that used to conduct the research, there are at least 2 versions about the average bear markets length.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First version:&lt;/strong&gt; According to &lt;a href=&quot;https://books.google.com/books?id=xXyx5k-EwM8C&amp;amp;pg=PA203&amp;amp;lpg=PA203&amp;amp;dq=bear+market+times+since+1900&amp;amp;source=bl&amp;amp;ots=KkX6B0yBP8&amp;amp;sig=vRPqQ3UhjafHx-MChrpZcLvDB2s&amp;amp;hl=en&amp;amp;sa=X&amp;amp;redir_esc=y#v=onepage&amp;amp;q=bear%20market%20times%20since%201900&amp;amp;f=false&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ned Davis Research (1998)&lt;/a&gt; and the ones happened in 1990-2015, there were 33 bear markets, with an average length of &lt;strong&gt;15 months&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second version:&lt;/strong&gt; A recent research &lt;a href=&quot;http://www.businessinsider.com/last-10-us-bear-markets-2016-1&quot; title=&quot;Last 10 Bear markets&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;paper&lt;/a&gt; of &lt;a href=&quot;https://am.jpmorgan.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;J.P. Morgan Asset Management&lt;/a&gt; suggests that, the last 10 bear markets (which including the 1929 Wall Street Crash, 1937 Fed Tightening/Recession, 2000 Dot-com bubble and 2007 Global financial crisis) usually last &lt;strong&gt;25 months&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://static5.businessinsider.com/image/568d0fc8c08a80492c8b58b8-960/bear%20markets.jpeg&quot; alt=&quot;alt text&quot; title=&quot;Source: J.P. Morgan Asset Management&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And for the subsequent bull runs, no matter which version you used, the average length of a bull market is about &lt;strong&gt;2 times&lt;/strong&gt; of a bear market.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;3. How often do bear markets happen?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: every &lt;strong&gt;3.5 years&lt;/strong&gt;, or the average length of bear markets + bull markets&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If we use the first version of the bear market length (15 months), the answer is &lt;strong&gt;45 months&lt;/strong&gt; (15 months multiply 3). However, since there are a lot of uncertainties that affect the market over the years, we can’t simply use these average lengths to predict the start/end of a bear market.&lt;/p&gt;
+&lt;p&gt;For example, during the Wall Street Crash of 1929-34, actually 9 bear markets were happened according to an &lt;a href=&quot;http://seekingalpha.com/article/99902-historical-bull-and-bear-markets-for-the-dow-1900-present&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;article&lt;/a&gt; on seekingalpha.com&lt;br&gt;&lt;img src=&quot;http://static.cdn-seekingalpha.com/uploads/2008/10/14/saupload_bullbears.png&quot; alt=&quot;alt text&quot; title=&quot;Source: Seeking alpha&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;4. How to gauge the bear market?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: &lt;strong&gt;Citi’s bear market checklist&lt;/strong&gt;, and J.P. Morgan Asset Management Research (&lt;strong&gt;Recession, Commodity Spike, Aggressive Fed, Extreme Valuations&lt;/strong&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Do you believe someone can really predict the bear market? Yes and No! It is a well known fact that, for many years, the prediction accuracy were no better than tossing a coin. Nevertheless, it does not mean &lt;a href=&quot;http://www.gimletech.com&quot; title=&quot;Value app&quot;&gt;analysis&lt;/a&gt; is not necessary.&lt;/p&gt;
+&lt;p&gt;If you more cared about the &lt;strong&gt;global&lt;/strong&gt; economy and have assets in &lt;a href=&quot;https://en.wikipedia.org/wiki/Emerging_markets&quot; title=&quot;Wikipedia: Emerging markets&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;emerging markets&lt;/strong&gt;&lt;/a&gt; (particularly China), check out this two articles about the Citi’s bear market checklist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.zerohedge.com/news/2016-01-05/where-does-world-currently-stand-citis-bear-market-checklist&quot; title=&quot;Zero hedge&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What Does Citi’s “Bear Market Checklist” Predict About The Future&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.benzinga.com/analyst-ratings/analyst-color/15/08/5789592/citis-bear-market-checklist&quot; title=&quot;Benzinga&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Citi’s bear market checklist&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Download our &lt;a href=&quot;https://itunes.apple.com/us/app/value-turn-investors-idea/id1020357535?ls=1&amp;amp;mt=8&quot; title=&quot;Value - Turn investors&amp;#39; idea into innovation&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Value app&lt;/a&gt; and have a more intuitive look about this market gauge&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-lga3-1.xx.fbcdn.net/hphotos-xlt1/v/t1.0-9/12729164_921536767964708_2037300212668579461_n.png?oh=a80715631e53a474e9d4d27242931b59&amp;oe=57279256&quot; alt=&quot;Value - Turn investors&#39; idea into innovation&quot; style=&quot;width: 320px;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The checklist uses &lt;strong&gt;16&lt;/strong&gt; different indicators to determine the likelihood of a bear market, but have to say, some of them are not very useful if you require a time-sensitive (if you know there have a regular updates of any of the indicator, draw us a line. We listed some of them here at the &lt;strong&gt;end of this article&lt;/strong&gt;) judgement to the market condition.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.businessinsider.com/last-10-us-bear-markets-2016-1&quot; title=&quot;Last 10 Bear markets&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The J.P. Morgan’s research&lt;/a&gt;, on the other hand, is more like a high level view of bear markets to put it down to &lt;strong&gt;4 categories:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recession: The most common factor which has coincided with a bear market &lt;strong&gt;8 times&lt;/strong&gt;. &lt;/li&gt;
+&lt;li&gt;Extreme valuations: &lt;strong&gt;5 times&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Commodity spikes: &lt;strong&gt;4 times&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Aggressive Fed tightening: &lt;strong&gt;4 times&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;5. What to expect from a bear market?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;keywords&lt;/em&gt;: International &lt;strong&gt;asset allocations&lt;/strong&gt; and &lt;a href=&quot;http://www.investopedia.com/terms/c/capital-flows.asp&quot; title=&quot;Investpedia: Capital flows&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;capital flows&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No doubt that, every time when the market headed into bearish, besides fear and sell, we should expect something different, i.e., &lt;strong&gt;opportunities&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So, where is the opportunity?&lt;/p&gt;
+&lt;p&gt;We believe that opportunities are lies in changes. And put it in investment context, we mean capital flows. Asset-class movements, Mutual fund flows, Capital-spending budgets and Federal budget, there are too many things need to know. But make it simply, we have a sustained interest in the Venture capital (investments in startup businesses). Any trends in VCs (the most sensitive companies) might indicate future investment opportunities (Market - Sector - Companies).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Finally, our view towards the bear markets:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was the worst of times, it is the best times&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;code&gt;Regular updates of indicators&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Source&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Global Equity Risk Premium&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://pages.stern.nyu.edu/~adamodar/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://pages.stern.nyu.edu/~adamodar/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;US Yield Curve (10Y - 2Y)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.quandl.com/data/USTREASURY/YIELD-Treasury-Yield-Curve-Rates&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.quandl.com/data/USTREASURY/YIELD-Treasury-Yield-Curve-Rates&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Global RoE&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://people.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://people.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;US HY Bond Spread&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://news.morningstar.com/briefnet/marketupdate.aspx?page=RateBrief&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://news.morningstar.com/briefnet/marketupdate.aspx?page=RateBrief&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;For questions, suggestions and feature requests: leave us a comment or &lt;a href=&quot;mailto:feedback@gimletech.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;send us an email!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cheers!&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Bear-market-times&quot;&gt;&lt;a href=&quot;#Bear-market-times&quot; class=&quot;headerlink&quot; title=&quot;Bear market times&quot;&gt;&lt;/a&gt;Bear market times&lt;/h1&gt;&lt;blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="Bear Market Series" scheme="http://www.gimletech.com/blog/categories/Bear-Market-Series/"/>
+    
+    
+      <category term="Bear market" scheme="http://www.gimletech.com/blog/tags/Bear-market/"/>
+    
+      <category term="Insights" scheme="http://www.gimletech.com/blog/tags/Insights/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome to Gimletech</title>
+    <link href="http://www.gimletech.com/blog/2016/02/19/2016-02-19-Welcome-to-Gimletech/"/>
+    <id>http://www.gimletech.com/blog/2016/02/19/2016-02-19-Welcome-to-Gimletech/</id>
+    <published>2016-02-19T08:40:00.000Z</published>
+    <updated>2016-02-28T02:48:42.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Welcome-to-Gimletech&quot;&gt;&lt;a href=&quot;#Welcome-to-Gimletech&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Gimletech&quot;&gt;&lt;/a&gt;Welcome to Gimletech&lt;/h1&gt;&lt;p&gt;Welcome to our Gimletech blog! This blog will give us an unique opportunity to share our news, app updates and investment insights, while also offering a place for us to interact with our investors community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our &lt;a href=&quot;http://www.gimletech.com&quot;&gt;website&lt;/a&gt;, read on.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;Value-App-Updates&quot;&gt;&lt;a href=&quot;#Value-App-Updates&quot; class=&quot;headerlink&quot; title=&quot;Value App Updates&quot;&gt;&lt;/a&gt;Value App Updates&lt;/h3&gt;&lt;p&gt;On the &lt;a href=&quot;http://www.gimletech.com/blog&quot; title=&quot;Gimletech Investment and Insights blog&quot;&gt;Gimletech blog&lt;/a&gt;, we’ll not only share the work we are doing to build our &lt;a href=&quot;https://itunes.apple.com/us/app/value-turn-investors-idea/id1020357535?ls=1&amp;amp;mt=8&quot; title=&quot;Value - Turn investors&amp;#39; idea into innovation&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Value&lt;/a&gt; app, but also why and how we develop its functionalities. You’ll get to know the Value team, stay up to date with development between releases, and have an early access to our new features.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-iad3-1.xx.fbcdn.net/hphotos-xla1/t31.0-8/12783535_920392811412437_2169631000715517659_o.png&quot; alt=&quot;&quot; title=&quot;Value v1.0&quot;&gt;&lt;br&gt;Gimletech Value v1.0&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;Investment-Insights&quot;&gt;&lt;a href=&quot;#Investment-Insights&quot; class=&quot;headerlink&quot; title=&quot;Investment Insights&quot;&gt;&lt;/a&gt;Investment Insights&lt;/h3&gt;&lt;p&gt;Wanna know how to make more money and grow your wealth? It’s not an easy thing, and we invite you to join the journey with us.&lt;/p&gt;
+&lt;p&gt;You might have already read lots of investing blogs, but here is still a good place to inspire your investing ideas, to help you to pick the best strategies that suits you investing(trading) preferences and your portfolio. Also, we’ll share &lt;a href=&quot;http://www.amazon.com/gp/product/B00B9V4K64/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00B9V4K64&amp;amp;linkCode=as2&amp;amp;tag=valugiml-20&amp;amp;linkId=HXH3MMMKQNNLOSVD&quot; title=&quot;The Elements of Investing: Easy Lessons for Every Investor&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;the elements of investing&lt;/a&gt;, and how we utilize them in our &lt;a href=&quot;https://itunes.apple.com/us/app/value-turn-investors-idea/id1020357535?ls=1&amp;amp;mt=8&quot; title=&quot;Value - Turn investors&amp;#39; idea into innovation&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;app&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;Being a good investor is all about practice and education. There are so many facets to investing. Although we can’t cover all, we’ll focus on value investing and quantitative investment, and any other investing strategies (e.g. &lt;a href=&quot;http://www.amazon.com/gp/product/1118460146/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1118460146&amp;amp;linkCode=as2&amp;amp;tag=valugiml-20&amp;amp;linkId=WOD4OP4474AF4ZIM&quot; title=&quot;Algorithmic Trading - Winning Strategies and Their Rationale&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;mean-reversion&lt;/a&gt;, &lt;a href=&quot;http://www.amazon.com/gp/product/0071849440/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0071849440&amp;amp;linkCode=as2&amp;amp;tag=valugiml-20&amp;amp;linkId=P2YV43BSF2MWBCWC&quot; title=&quot;Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;dual momentum&lt;/a&gt;) that not in aforementioned topics.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wow, we should read more books like &lt;a href=&quot;https://en.wikipedia.org/wiki/Charlie_Munger&quot; title=&quot;Wikipedia: Charlie Munger&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Charlie Munger&lt;/a&gt; did!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As we continue to build our blog, we’ll also create more specific content so you can learn more about the latest news, research and tips about your specific type of investment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We look forward to growing with you as we embark on this new journey.&lt;/p&gt;
+&lt;p&gt;For questions, suggestions and feature requests: leave us a comment or &lt;a href=&quot;mailto:feedback@gimletech.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;send us an email!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cheers!&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Welcome-to-Gimletech&quot;&gt;&lt;a href=&quot;#Welcome-to-Gimletech&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Gimletech&quot;&gt;&lt;/a&gt;Welcome to Gimletech&lt;/h1&gt;&lt;
+    
+    </summary>
+    
+      <category term="Timeline" scheme="http://www.gimletech.com/blog/categories/Timeline/"/>
+    
+    
+      <category term="Engage" scheme="http://www.gimletech.com/blog/tags/Engage/"/>
+    
+  </entry>
+  
+</feed>
